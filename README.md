@@ -298,3 +298,10 @@ After completing this workshop, you'll be ready to:
 ---
 
 **Good luck and happy coding! 🚀**
+---
+
+## Live Demo (GitHub Pages)
+
+Static version of the site: https://jehkis.github.io/Workshop03_Express/
+
+GitHub Pages serves only static files, so the Express server itself does not run there. The pages, CSS and the custom 404 page work, but the `/api/*` endpoints are available only when running the server locally with `npm start`.
